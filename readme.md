@@ -9,3 +9,8 @@ Bem vinde ao repositório! Este é um projeto de exemplo para demonstrar o uso b
 - Markdown
 
 ### ESTRUTURAS DO PROJETO
+
+### COMO TRABALHAR COM O GIT
+
+### ADICIONANDO CONTEÚDO REMOTAMENTE
+
